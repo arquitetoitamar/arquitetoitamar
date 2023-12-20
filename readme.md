@@ -1,28 +1,21 @@
-![linkedIn2](https://github.com/admfrancescousseau/admfrancescousseau/assets/112359213/cda50c90-d14d-4fc2-b2dc-720996069ab8)
+![linkedIn2](https://github.com/arquitetoitamar/arquitetoitamar/blob/master/banner.png)
 
 <h1 align="center">Hi, I'm Francesco Cristiano Cousseau</h1>
 <h3 align="center"> Passionate by Science and Data Analysis </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=admfrancescousseau&theme=github_dark&show_icons=true) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=admfrancescousseau&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arquitetoitamar&theme=github_dark&show_icons=true) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arquitetoitamar&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <h3 align="left"> Professional Certification:</h3>
 
-- Google Data Analytics - [Google](https://www.credly.com/badges/17aac1ba-8e6b-4205-a9a3-818d9f977a8a/public_url)
-- Google Project Management - [Google](https://www.credly.com/earner/earned/badge/77f69b3d-6d52-4b11-8ffe-25fcb256c285)
-- Business Intelligence Foundation - BIFPC™ [CerfiProf](https://certiprof.com/)
-- Scrum Foundation Professional Certificate - SFPC™ (v2020) [CerfiProf](https://certiprof.com/)
-- Remote Work Professional Certification - RWPC™ [CerfiProf](https://certiprof.com/)
+- AWS CLOUD Practitioner - [AWS](https://www.credly.com/badges/642b81bc-f8ec-4fdd-a433-fb3952b8a658/linked_in?t=rwchpq)
+- AWS Solution Architect Associate - [AWS](https://www.credly.com/badges/deed7c26-9cee-4cea-94c1-9211d6e5b967)
+- DevOps Professional - BIFPC™ [CerfiProf](https://certiprof.com/)
+
 
 <h3 align="left"> Graduated in:</h3>
-
-- Business Intelligence Manager - [XPE](https://www.xpeducacao.com.br/)
-- Data Science | Analyst - [XPE](https://www.xpeducacao.com.br/)
-- Variable Income Data Scientist - [XPE](https://www.xpeducacao.com.br/)
-- Fixed Income Data Scientist - [XPE](https://www.xpeducacao.com.br/)
-- Python Developer - [XPE](https://www.xpeducacao.com.br/)
-- Agile Expert - [XPE](https://www.xpeducacao.com.br/)
-- Power BI - [EDULIV  Business Intelligence School](https://play.eduliv.com.br/) 
-- Power BI - [Power BI Experience](https://powerbiexperience.com/)
+- Ciência da Computaçao - [UNIP](https://www.unip.br/)
+- Marketing - [Mackenzie](https://www.mackenzie.br/)
+- MBA Gestao Empresarial - [FGV](https://portal.fgv.br/)
 
 
 <img src= "https://user-images.githubusercontent.com/112359213/216746110-77607608-239f-45c9-a66b-6f8ccbadc858.png" alt="adm.francescousseau" height="35" width="40" /> </a> I’m studying **Power BI, DAX, Python, SQL, Excel**
@@ -31,9 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/admfrancescousseau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/admfrancescousseau/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/francescoccousseau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/francescoccousseau" height="30" width="40" /></a>
-<a href="https://instagram.com/adm.francescousseau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adm.francescousseau" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/itamusic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itamusic/" height="30" width="40" /></a>
 
 
 <h3 align="left">Cloud Services:</h3>
