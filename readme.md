@@ -1,7 +1,7 @@
 ![linkedIn2](https://github.com/arquitetoitamar/arquitetoitamar/blob/master/banner.png)
 
 <h1 align="center">Hi, I'm Itamar Rocha</h1>
-<h3 align="center"> Solution Architect </h3>
+<h3 align="center"> Solutions Architect </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arquitetoitamar&theme=github_dark&show_icons=true) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arquitetoitamar&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
